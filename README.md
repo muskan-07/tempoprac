@@ -1,2 +1,2 @@
 # vehical-management
-for practice 
+python,Django
